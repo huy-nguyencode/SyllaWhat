@@ -1,6 +1,6 @@
 # SyllaWhat
 
-Minimal Python setup for the syllabus project. It checks that FastAPI, Uvicorn,
+Minimal Python setup for the SyllaWhat. It checks that FastAPI, Uvicorn,
 pdfplumber, python-docx, and icalendar can load in the same environment.
 Running it creates no reports, prints nothing, and does not start a server.
 No credentials are required.
